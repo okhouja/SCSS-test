@@ -9,4 +9,12 @@ body {
   background-color: black;
 }
 
+.cir {
+  margin-top: 1em;
+  width: 6em;
+  height: 6em;
+  border-radius: 50%;
+  border: 2px solid green;
+}
+
 /*# sourceMappingURL=main.css.map */
