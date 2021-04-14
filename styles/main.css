@@ -17,4 +17,11 @@ body {
   border: 2px solid green;
 }
 
+.left {
+  width: 12em;
+  height: 6em;
+  background-color: green;
+  float: right;
+}
+
 /*# sourceMappingURL=main.css.map */
